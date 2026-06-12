@@ -86,3 +86,10 @@
     "electron-builder": "^24.0.0"
   }
 }
+{
+  "name": "chili3d",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rspack dev"
+  }
+}
